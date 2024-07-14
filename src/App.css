@@ -1,0 +1,22 @@
+body{
+  max-width: 280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+input{
+  border: none;
+  border-radius: 2px;
+  border-color: none  ;
+  border-style: groove;
+}
+button{
+  background-color: transparent;
+}
